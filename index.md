@@ -1,7 +1,7 @@
 <html lang="it">
 
 <head>
-	<title>Menù-WikiISG</title> <!-- compare sulla scheda in alto nel browser -->
+	<!--<title>Menù-WikiISG</title> <!-- compare sulla scheda in alto nel browser -->
 </head>
 
 <body>
