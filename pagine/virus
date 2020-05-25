@@ -1,0 +1,101 @@
+﻿<html lang="it">
+
+<head>
+	<title>WikiISG</title> <!-- compare sulla scheda in alto nel browser -->
+</head>
+
+<body>
+<font face="Verdana">
+
+<!-- Intestazione | Parte 1: DA NON MODIFICARE !!! -->
+
+	<table cellSpacing="2" cellPadding="2" width="100%">
+		<tr>
+			<td>
+				<a href="../index.html">
+				<img src="img/logo.jpg" alt="logo ISG" height="20%" align="left">
+				</a>
+			</td>
+			<td>
+				<h5 align=right>
+				<a href="../index.html" title="Homepage">Home</a>
+				</h5>		
+			</td>
+		</tr>
+	</table>
+
+<a href="#"></a>
+
+<!--Fine Intestazione Parte 1 -->
+
+<!--Intestazione | Parte 2: da MODIFICARE!!! -->
+
+<h1><a href="regni.html">I cinque regni degli esseri viventi</a> ><font color="red">  I virus</h1></font> <!-- MODIFICARE -->
+
+<!-- NON MODIFICARE -->
+<hr align="left" size="2" color="grey"> 
+<sub>da WIKI ISG, l'enciclopedia libera dell'Istituto San Giuseppe</sub> <!-- NON MODIFICARE -->
+
+<br>
+<br>
+<br>
+
+<!-- Fine Intestazione | Parte 2 -->
+
+<!-- Corpo della Pagina -->
+
+<p align="justify"><Regno dei protisti. Il regno dei protisti è un gruppo tassonomico che comprende gli organismi eucarioti unicellulari autotrofi o eterotrofi. Gli organismi protisti possiedono le caratteristiche proprie sia delle piante che degli animali. I protisti sono generalmente degli organismi unicellulari. inoltr i protisti si dividono in due grandi gruppi: i protozoi e le alghe unicellulari/h3> <!-- da Modificare! -->
+<br><br>
+<!--Indice-->
+	<table bordercolor="grey" border=1 cellSpacing=0 cellPadding=10>
+		<tr>
+			<td> <b>Indice</b>
+				<ul>
+					<li><a href="#primo">Caratteristiche</a></li> <!--Modificare i nomi degli argomenti-->
+					<li><a href="#secondo">I protozoi</a></li>
+					<li><a href="#terzo">Le alghe unicellulari</a></li>
+				</ul>
+			</td>
+		</tr>
+	<table>
+<!--Fine Indice-->
+<br><br><br>
+<!--Contenuto-->
+
+<p align="justify"><b>I virus sono piccoli batteri </b>che non sono nè viventi nè non viventi ma hanno 2 caratteristiche degli esseri viventi: 
+<br> 
+1) sono composti da sostanze organiche
+<br>
+ 2) si evolvono
+<br>
+  possono attaccare animali, vegetali e batteri.
+<br>
+<a href="LE FORME DEI VIRUS"> <"LE FORME DEI VIRUS" <br>
+<a href="COME SI ACCRESCONO I VIRUS"> <"COME SI ACCRESCONO I VIRUS"
+<br> 
+<a href="I VIRUS PIU' VIRALI"> <"I VIRUS PIU' VIRALI">
+<br>
+
+<h3><a name="primo">Caratteristiche</a></h3>
+      <h5><a align="justify">Dimensioni</a></h5>
+<p align="justify">I protisti sono lunghi circa 4-5 mm. 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!--Fine Contenuto-->
+
+<!--Footer-->
+<a href="#">Torna all'inizio</a>
+<br><br>
+<a href="regni.html">Torna a "I cinque regni degli esseri viventi"</a>
+<!--Fine Footer-->
+
+<!--Fine Pagina-->
+
+</body>
+</html>
